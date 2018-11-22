@@ -16,3 +16,5 @@
 * [scikit-learn unsupervised learning reference](https://scikit-learn.org/stable/unsupervised_learning.html)
 
 * [scikit-learn unsupervised learning tutorial](https://scikit-learn.org/stable/tutorial/statistical_inference/unsupervised_learning.html)
+
+* [ML, DL, NN, Big Data cheat sheet](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
